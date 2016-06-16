@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 10.00
 # Visual Studio 2008
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NPI.Common", "Source\NPI.Common\NPI.Common.csproj", "{85DBE8F5-88BD-41B8-B3C3-E7DC6B78E364}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Picking.Mobile", "Source\Picking.Mobile\Picking.Mobile.csproj", "{F57A268F-4C27-4DAB-9201-BB1951BBAAB0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -13,6 +15,12 @@ Global
 		{85DBE8F5-88BD-41B8-B3C3-E7DC6B78E364}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{85DBE8F5-88BD-41B8-B3C3-E7DC6B78E364}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{85DBE8F5-88BD-41B8-B3C3-E7DC6B78E364}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F57A268F-4C27-4DAB-9201-BB1951BBAAB0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F57A268F-4C27-4DAB-9201-BB1951BBAAB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F57A268F-4C27-4DAB-9201-BB1951BBAAB0}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{F57A268F-4C27-4DAB-9201-BB1951BBAAB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F57A268F-4C27-4DAB-9201-BB1951BBAAB0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F57A268F-4C27-4DAB-9201-BB1951BBAAB0}.Release|Any CPU.Deploy.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
